@@ -3,8 +3,7 @@ Class Invariant: All objects have a name string and hire date.
 A name string of "No name" indicates no real name specified yet.
 A hire date of January 1, 1000 indicates no real hire date specified yet.
 */
-public class Employee
-{
+public class Employee{
 private String name;
 private Date hireDate;
 public Employee(){
